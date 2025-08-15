@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Fronted Web Development
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me https://www.linkedin.com/in/vishalgupta-innovation/
+- 📫 How to reach me https://www.linkedin.com/in/vishalgupta-ai/
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 
