@@ -81,6 +81,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
+<img src="./output/pacman-contribution-graph-dark.svg" width="100%">
 
 ###
 
