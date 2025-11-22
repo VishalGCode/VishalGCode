@@ -1,4 +1,4 @@
-name: Generate Animated Pac-Man Graph
+name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
@@ -12,25 +12,28 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          persist-credentials: false
 
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
           node-version: 18
 
-      - name: Install pacman-graph generator
+      - name: Clone pacman generator
         run: |
-          npm install -g @yao-pacman/contribution-graph
+          git clone https://github.com/n3r4zzurr0/pacman-graph pacman
 
-      - name: Generate Pac-Man graph
+      - name: Install dependencies
         run: |
-          mkdir -p output
-          pacman-graph -u VishalGCode -o output/pacman.svg -a
+          cd pacman
+          npm install
 
-      - name: Commit and push
+      - name: Generate graph
+        run: |
+          cd pacman
+          npm start -- -u VishalGCode -o ../output/pacman.svg --animated
+
+      - name: Commit and push output
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update animated Pac-Man graph"
+          commit_message: "Update Pac-Man graph"
           file_pattern: output/pacman.svg
