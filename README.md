@@ -16,8 +16,11 @@
         <img src="http://itshivam.in/api/github-profile?username=VishalGCode&data=repositories,stars,commits&theme=default" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
-
 </div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=VishalGCode&label=VISITORS&style=for-the-badge&color=blueviolet"/>
+</div>
+
 
 ---
 
@@ -248,50 +251,25 @@ Let's connect and create something amazing together!
 
 </p>
 
----
-## 🧠 Competitive Programming
-<p align="center">
-
-<a href="https://leetcode.com/_vishalgupta_/">
-<img src="https://img.shields.io/badge/LeetCode-_vishalgupta_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/vishal3555gupta">
-<img src="https://img.shields.io/badge/HackerRank-vishal3555gupta-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/_vishalgupta_?theme=unicorn"/>
-</p>
-
-
 
 ---
 # 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalGCode&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalGCode&theme=tokyo-night&hide_border=true&height=250"/>
 
 </p>
 
 
 ---
 
-
-## 💡 Dev Quote
-
+## Quote of the Day 🕊️
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
-
-<p align="center">
-<img src="https://count.getloli.com/@VishalGCode?name=VishalGCode&theme=booru-lewd&padding=7&offset=0&align=top&scale=1.5"/>
-</p>
-
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=60&fontColor=ffffff&animation=fadeIn&color=gradient"/>
