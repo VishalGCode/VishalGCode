@@ -34,18 +34,18 @@
 <p>
   <strong>
 Aspiring software engineer with a flair for web design and front-end development! Skilled in crafting captivating user experiences with HTML, CSS, JavaScript, React.js, and Next.js. I thrive on creating seamless, intuitive interfaces that bring ideas to life. Always on the hunt for innovative tools and techniques. Let's code something amazing together! 
-            </strong>
-        </p>
-        <h1></h1>
-        <ul>
-            <li>🔭 <b>I’m currently working on</b>: Bus Tracking and Management System</li>
-            <li>🌱 <b>I’m currently learning</b>: Android, Python, Java, Desgining, React JS.</li>
-            <li>💬 <b>Ask me about</b>: Web Development, Web Designing</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the below links 👇, in addition to follow me here.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.</li>
-        </ul>
-        <br />
-    </div>
+  </strong>
+</p>
+<h1></h1>
+<ul align="left">
+<li>🔭 <b>I’m currently working on</b>: Bus Tracking and Management System</li>
+<li>🌱 <b>I’m currently learning</b>: Android, Python, Java, Desgining, React JS.</li>
+<li>💬 <b>Ask me about</b>: Web Development, Web Designing</li>
+<li>📫 <b>How to reach me</b>: Catch and follow me from the below links 👇, in addition to follow me here.</li>
+<li>🤔 <b>I’m currently open for</b>: A new Internship opportunity and Open Source Projects.</li>
+</ul>
+<br />
+</div>
 </div>
 
 ```py
