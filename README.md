@@ -1,106 +1,102 @@
-<br clear="both">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Vishal%20Gupta&fontSize=70&fontColor=ffffff&animation=twinkling&color=gradient"/>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=VISHAL%20GUPTA&fontSize=85&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+<h1 align="center">Hey 👋 I'm Vishal</h1>
 
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h3 align="center">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Mobile+App+Developer;Cloud+Enthusiast;Building+Scalable+Applications" />
+</p>
+</h3>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&color=000000&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&color=FC6D26&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=Marketplace&logo=visualstudio&color=e2165e&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-</div>
+<p align="center">
+Building scalable apps, exploring cloud infrastructure, and shipping products.
+</p>
 
-<br>
+---
 
-<h4 align="center">MY TECH STACK!!!</h4>
+# 🌐 Connect With Me
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=py" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=graphql" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="60"/>
-</div>
+<p align="center">
 
-<br>
+<a href="https://linkedin.com/in/vishal-gupta-ai">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<!-- FIXED: Only one Pacman graph block -->
+<a href="mailto:vishal3555gupta@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/_.the.vishal.gupta_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/YOUR_ID">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://dev.to/YOUR_DEVTO">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nextjs,nodejs,tailwind,java,python,aws,flutter,dart,figma,vite"/>
+
+</p>
+
+---
+
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=VishalGCode&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+
+# 🎮 Contributions 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishalGCode/VishalGCode/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishalGCode/VishalGCode/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VishalGCode/VishalGCode/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishalGCode/VishalGCode/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishalGCode/VishalGCode/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VishalGCode/VishalGCode/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br>
+---
+# 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VishalGCode&layout=compact&langs_count=10&theme=dracula&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalGCode&show_icons=true&theme=dracula&hide_border=false" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=VishalGCode&theme=dracula&hide_border=false&border_radius=20" height="200"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalGCode&radius=50&theme=react&area=true&hide_border=true" height="200"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=VishalGCode&theme=dracula&margin-w=8&margin-h=8" height="150"/>
-</div>
+<p align="center">
 
-<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalGCode&theme=tokyo-night&hide_border=true"/>
 
-<div align="center">
-  <img 
-    src="https://i.imgflip.com/65efzo.gif" 
-    height="230" 
-    style="border-radius:20px; box-shadow: 0 0 18px rgba(255, 255, 255, 0.35);" 
-  />
-</div>
- 
-<img align="left" src="https://count.getloli.com/@:VishalGCode?theme=gelbooru&padding=8&offset=17&scale=1.7"/>
+</p>
 
-<br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&text=THANK%20YOU&fontSize=70&fontColor=FFFFFF&animation=scaleIn&color=gradient"  />
-</div>
+---
+
+
+## 💡 Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+
+<p align="center">
+<img src="https://count.getloli.com/@:VishalGCode?theme=gelbooru&padding=8&offset=17&scale=1.7"/>
+</p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=60&fontColor=ffffff&animation=fadeIn&color=gradient"/>
