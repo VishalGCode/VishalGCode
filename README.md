@@ -18,8 +18,8 @@
 
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=VishalGCode&label=VISITORS&style=for-the-badge&color=blueviolet"/>
-</div>
+  <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2FVishalGCode%2FVishalGCode&label=VISITORS&labelColor=%2305C2F2&countColor=%2305C2F2" />
+    <br>
 
 
 ---
