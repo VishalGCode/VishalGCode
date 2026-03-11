@@ -12,8 +12,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-  <a href="https://sunscar.dev" target="_blank">
-        <img src="http://itshivam.in/api/github-profile?username=VishalGCode&data=repositories,stars,commits&theme=default" alt="GitHub WidgetBox" width="90%" height="0%">
+  <a target="_blank">
+            <img src="http://itshivam.in/api/github-profile?username=VishalGCode&data=repositories,stars,commits&theme=default&cachebuster=12345">
     </a>
 
 </div>
