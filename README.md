@@ -256,9 +256,7 @@ Let's connect and create something amazing together!
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalGCode&theme=tokyo-night&hide_border=true&height=250"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishalGCode&theme=tokyonight&height=250" />
 </p>
 
 
